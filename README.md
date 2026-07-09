@@ -63,5 +63,5 @@ streamlit run backend/app.py
 ---
 
 # 👨‍💻 Author
-**Ashmit Roy**
+**Ashmit Roy** <br>
 **Swastika Karmakar**
